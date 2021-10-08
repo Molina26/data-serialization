@@ -1,0 +1,25 @@
+{
+  "name": "data-seralization-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "npx nodemon src/index.js"
+  },
+  "keywords": ["node", "express", "mysql", "json", "xml", "yaml"],
+  "author": "Manuel A. Molina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-xml-bodyparser": "^0.3.0",
+    "json-to-pretty-yaml": "^1.2.2",
+    "mysql2": "^2.3.0",
+    "xml-js": "^1.6.11",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.13"
+  }
+}

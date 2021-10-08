@@ -1,0 +1,9 @@
+const config = {
+  host: '',
+  user: '',
+  password: '',
+  database: 'blog',
+  port: 0
+}
+
+module.exports = config;
