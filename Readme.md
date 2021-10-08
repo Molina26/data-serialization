@@ -60,7 +60,7 @@ Path: http://localhost:82/api/xml/languages
 Method: GET
 <br/><br/>
 
-#### *- Create Programming Language with Json*
+#### *- Create Programming Language with XML*
 
 Path: http://localhost:82/api/xml/languages
 
@@ -82,16 +82,16 @@ Raw Type : XML
 ### YAML
 <br/>
 
-#### *- Getting Programming Languages with XML*
+#### *- Getting Programming Languages with YAML*
 
-Path: http://localhost:82/api/xml/languages
+Path: http://localhost:82/api/yaml/languages
 
 Method: GET
 <br/><br/>
 
-#### *- Create Programming Language with Json*
+#### *- Create Programming Language with YAML*
 
-Path: http://localhost:82/api/xml/languages
+Path: http://localhost:82/api/yaml/languages
 
 Method: POST
 
