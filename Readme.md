@@ -1,6 +1,6 @@
-# Data Seralization
+# Data Serialization
 
-This project is an example to the use of the data seralizarion json, xml and yaml in a web service
+This project is an example to the use of the data serialization json, xml and yaml in a web service
 <br/>
 <br/>
 
@@ -10,7 +10,7 @@ This project is an example to the use of the data seralizarion json, xml and yam
 1. Copy this repository
 2. Execute query of database in your MySQL
 3. Run the command **npm install** in the terminal
-4. Copy the file db.config.example and rename as db.config.js
+4. Copy the file db.config.example to the **rute src/config** and rename as db.config.js
 5. Asigne your configuration in db.config.js
 6. Run the server with the command **npm start** in the terminal
 
